@@ -13,7 +13,7 @@ console.log('It works!');
  * @param cnt: number of random words to generate, default 100
  */
 
-//tasks.no1();
+tasks.no1();
 
 
 /**
@@ -26,7 +26,7 @@ console.log('It works!');
  * @param cnt: number of random words to generate, default 100
 */
 
-//tasks.no2(); 
+tasks.no2(); 
 
 /**
  * Create a version of steps *1* and *2* using the **asynchronous** 
@@ -37,7 +37,7 @@ console.log('It works!');
  * @param cnt: number of random words to generate, default 100
  */
 
-// tasks.no3();
+tasks.no3();
 
 
 /**
@@ -50,9 +50,9 @@ console.log('It works!');
  * @param cnt: number of random words to generate, default 100 
  */
  
-//tasks.no4sync();
+tasks.no4sync();
 
-//tasks.no4async();
+tasks.no4async();
 
 /**
  * For **Node.JS developers**: Instead of printing the console. Write the 
@@ -61,7 +61,7 @@ console.log('It works!');
  * @param cnt: number of random words to generate, default 100
  */
 
-// tasks.no5node();
+tasks.no5node();
 
  
  /**
